@@ -1,3 +1,4 @@
+
 '''
 Script:       translate-en-messages.py
 Version:      2025.2.23
